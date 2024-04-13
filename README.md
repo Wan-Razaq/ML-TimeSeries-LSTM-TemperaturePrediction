@@ -1,10 +1,6 @@
 
 # Ladle Furnace Unit (LFU) Temperature Prediction - Steel Manufacturing
 
-![Example of LFU](https://images.app.goo.gl/b3LnwrpnXyD956rSA)
-*Source: [www.danieli.com]
-
-
 ## Project Domain
 
 In the critical process of steel manufacturing, specifically at the ladle furnace unit (LFU), achieving the correct melt temperature is important for quality and efficiency. The LFU, a vital component in steel processing, faces challenges in accurately forecasting temperatures. Addressing this issue is essential for maintaining the delicate balance of the steel's chemical composition and ensuring optimal processing conditions. The goal of this project is to develop a predictive model that can accurately forecast the temperature measurements of the steel melt, which is a crucial step in improving the overall efficiency and output of the LFU operations.
